@@ -2,7 +2,7 @@
 
 A simple and stylish counter app built using **React** and **Vite**. This app allows users to increment, decrement, and reset a counter value. It's a beginner-friendly project and a great way to get started with React fundamentals and CSS styling.
 
-![Counter App UI](./counter-app-preview.png)
+![Counter App UI](./src/assets/counter-app-preview.png)
 
 ## 🔧 Features
 
@@ -21,7 +21,7 @@ A simple and stylish counter app built using **React** and **Vite**. This app al
 
 | Action        | Screenshot |
 |---------------|------------|
-| App Interface | ![UI](./counter-app-preview.png) |
+| App Interface | ![UI](./src/assets/counter-app-preview.png) |
 
 ## 🚀 Getting Started
 
